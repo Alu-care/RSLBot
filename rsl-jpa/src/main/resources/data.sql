@@ -7,7 +7,7 @@ INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('6','Ithos','Ithos','
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('7','Krisk The Ageless','Krisk L Eternel','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-krisk-leternel-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('8','Prince Kymar','Prince Kymar','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-prince-kymar-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('9','Martyr','Martyre','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-martyre-martyr-artefact-et-maitrise/');
-INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('10','Ma'Shalled','Ma'Shalled','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-mashalled-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('10','Ma Shalled','Ma Shalled','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-mashalled-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('11','Nethril','Nethril','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-nethril-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('12','Raglin','Raglin','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-raglin-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('13','Rotos The Lost Groom','Rotos le Marié Egaré','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-rotos-le-marie-egare-artefact-et-maitrise/');
@@ -31,7 +31,7 @@ INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('30','Fu-Shan','Fu-Sh
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('31','Ignatius','Ignatius','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-ignatius-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('32','Bloodgorged','Gorgédesang','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-gorgedesang-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('33','Big 'Un','Gros Bill','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-gros-bill-big-un-artefact-et-maitrise/');
-INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('34','Gurgoh Augur','Gurgoth l'Augure','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-gurgoth-laugure-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('34','Gurgoh Augur','Gurgoth l Augure','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-gurgoth-laugure-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('35','Hegemon','Hégémon','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-hegemon-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('36','Khoronar','Khoronar','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-khoronar-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('37','Longbeard','Longuebarbe','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-longuebarbe-artefact-et-maitrise/');
