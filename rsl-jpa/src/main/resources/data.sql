@@ -4,7 +4,7 @@ INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('3','Dracomorphe','Dr
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('4','Drexthar Doublesang','Drexthar Bloodtwin','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-drexthar-doublesang-drexthar-bloodtwin-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('5','Duchess Lilitu','Duchesse Lilitu','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-duchesse-lilitu-equipement-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('6','Ithos','Ithos','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-ithos-artefact-et-maitrise/');
-INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('7','Krisk The Ageless','Krisk L'Eternel','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-krisk-leternel-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('7','Krisk The Ageless','Krisk L\'Eternel','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-krisk-leternel-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('8','Prince Kymar','Prince Kymar','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-prince-kymar-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('9','Martyr','Martyre','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-martyre-martyr-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('10','Ma'Shalled','Ma'Shalled','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-mashalled-artefact-et-maitrise/');
