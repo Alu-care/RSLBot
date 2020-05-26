@@ -13,10 +13,10 @@ public class HelpCommand implements ICommandAnswer {
     public void publishAnswer(MessageReceivedEvent event, Object... args) {
         EmbedBuilder builder = new EmbedBuilder()
                 .setColor(Color.RED)
-                .setAuthor("Cailliaud", "https://github.com/cailliaud/RSLBot")
+                .setAuthor("AlucareBot", "https://github.com/cailliaud/RSLBot")
                 .setTitle("Raid Shadow Legends Bot : Guide des commandes")
                 .setDescription("Ensemble des commandes utilisables pour le bot Raid Shadow Legends.")
-                .setFooter("Discord ChatBot développé par Cailliaud.");
+                .setFooter("Discord ChatBot développé par Cailliaud, modifié par Alucare pour le discord Alucare.fr, merci à BUZZ pour la liste des champions");
 
         Arrays.stream(RslCommand.values()).filter(rslCommand -> !rslCommand.isHidden()).forEach(
                 cmd -> builder.addField(cmd.getKey(), cmd.getDescription() + "\n" + cmd.getExample(), false)
