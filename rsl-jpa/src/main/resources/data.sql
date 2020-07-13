@@ -456,3 +456,4 @@ INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('455','Knecht','Servi
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('456','Troglodyte','Troglodyte','AIE AIE AIE, pas encore de guide !');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('457','Magekilleur','Tueuse de Mage','AIE AIE AIE, pas encore de guide !');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('458','Thrall','Vassal','AIE AIE AIE, pas encore de guide !');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('459','Kantra le cyclone','Kantra the cyclone)','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-kantra-le-cyclone-artefact-et-maitrise/');
