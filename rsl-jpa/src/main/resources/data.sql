@@ -479,3 +479,8 @@ INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('478','Vouivre du Fl�
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('479','Solaris','Solaris','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-solaris-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('480','Wagon du Fléau','Wagon du Fléau','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-wagon-du-fleau-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('481','Poing Eventreur','Poing Eventreur','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-poing-eventreur-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('482','Épouvanteur Masqué','Épouvanteur Masqué','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-epouvanteur-masque-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('483','Damoiselle Annie','Damoiselle Annie','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-damoiselle-annie-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('484','Narma la ressuscitée','Narma la ressuscitée','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-narma-la-ressuscitee-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('485','Bergoth le Malformé','Bergoth le Malformé','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-bergoth-le-malforme-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('486','Elegaius','Elegaius','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-elegaius-artefact-et-maitrise/');
