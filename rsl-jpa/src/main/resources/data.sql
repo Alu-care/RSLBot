@@ -575,3 +575,15 @@ INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('658','Tarshon','Tars
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('659','Pestilus','Pestilus','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-pestilus-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('660','Klod Gave-Bêtes','Klod Gave-Bêtes','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-klod-gave-betes-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('661','Prundar','Prundar','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-prundar-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('662','Jintoro','Jintoro','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-jintoro-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('663','Yoshi l ivrogne','Yoshi l ivrogne','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-yoshi-livrogne-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('664','Genzin','Genzin','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-genzin-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('665','Toragi la Grenouille','Toragi la Grenouille','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-toragi-la-grenouille-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('666','Sachi','Sachi','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-sachi-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('667','Chonoru','Chonoru','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-chonoru-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('668','Oboro','Oboro','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-oboro-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('669','Fauche-vie','Fauche-vie','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-fauche-vie-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('670','Masque de sang','Masque de sang','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-masque-de-sang-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('671','Fanatique','Fanatique','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-fanatique-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('672','Infiltré','Infiltré','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-infiltre-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('673','Conscrit','Conscrit','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-conscrit-artefact-et-maitrise/');
