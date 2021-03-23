@@ -587,3 +587,4 @@ INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('670','Masque de sang
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('671','Fanatique','Fanatique','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-fanatique-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('672','Infiltré','Infiltré','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-infiltre-artefact-et-maitrise/');
 INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('673','Conscrit','Conscrit','https://www.alucare.fr/wiki/guide-raid-shadow-legend/champion/guide-sur-conscrit-artefact-et-maitrise/');
+INSERT INTO hero (ID,english_Name,french_Name,url) VALUES ('674','Crânedacier','Crânedacier','https://www.alucare.fr/wiki/guide-raid-shadow-legend/guide-sur-cranedacier-steelskull-artefact-et-maitrise/');
